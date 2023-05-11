@@ -6,8 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Welcome to my first next js app;
-          <code className={styles.code}>src/app/page.js</code>
+          Welcome to my first next js app
         </p>
         <div>
           <a
